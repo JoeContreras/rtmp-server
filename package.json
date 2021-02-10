@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "apt install --fix-missing --assume-yes ffmpeg && node index.js"
   },
   "keywords": [],
   "author": "",
